@@ -1,0 +1,8 @@
+pandas
+mlflow
+seaborn
+imbalanced-learn
+seaborn
+xgboost
+catboost
+streamlit
